@@ -1,0 +1,6 @@
+{
+  "name": "P&P Fitness | Premium Gym",
+  "description": "Premium fitness destination in Chhatrapati Sambhajinagar with state-of-the-art Jerai equipment, rooftop functional turf, personal training and expert guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
